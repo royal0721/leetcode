@@ -11,8 +11,6 @@ var findMaxLength = function(nums) {
      // x x [x x x x]
      //      j     i    
      
-
-     // [0, 0, 1, 1, 1, 0]
      // target: the maximum length of a contiguous subarray with the sum equals to zero
 
     // 在 index = -1 處，在遍歷數組之前，計數為 0；
