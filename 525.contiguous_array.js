@@ -44,7 +44,7 @@ var findMaxLength = function(nums) {
             // (5) prefixSum = -1
             prefixSum--;
         } else {
-            // (3) prefixSum = - 1
+            // (3) prefixSum = -1
             // (4) prefixSum = 0
             // (6) prefixSum = 0
             prefixSum++;
